@@ -30,7 +30,7 @@ THE SOFTWARE.
 #include <dxgi1_6.h>
 
 extern "C" { __declspec(dllexport) extern const UINT D3D12SDKVersion = 711; }
-extern "C" { __declspec(dllexport) extern const char* D3D12SDKPath = u8".\\"; }
+extern "C" { __declspec(dllexport) extern const char* D3D12SDKPath = u8".\\D3D12\\"; }
 
 #define UAV_SIZE 1024
 

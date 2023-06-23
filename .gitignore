@@ -2,3 +2,4 @@
 .vs/
 x64/
 !/d3d12/lib/x64/
+packages/
